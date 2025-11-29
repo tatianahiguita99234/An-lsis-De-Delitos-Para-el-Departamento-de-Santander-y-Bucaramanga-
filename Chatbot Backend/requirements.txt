@@ -1,0 +1,15 @@
+# Streamlit
+streamlit==1.39.0
+
+# Data processing
+pandas==2.2.3
+
+# Groq API (ULTRA RÁPIDA Y GRATIS)
+groq==0.13.0
+
+# RAG - 100% GRATIS
+sentence-transformers==2.7.0  # Embeddings gratis
+faiss-cpu==1.13.0  # Vector database gratis - Compatible con Python 3.13
+
+# Utilidades
+python-dotenv==1.0.1
